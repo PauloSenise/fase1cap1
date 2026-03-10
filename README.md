@@ -11,3 +11,21 @@
 </p>
 
 ---
+## **Equipe**
+
+### **Grupo 3 – Capítulo 1 - Fase 1**
+
+| Integrante | GitHub |
+|-----------|--------|
+| Felipe Sabino da Silva | [@FelipeSabinoTMRS](https://github.com/FelipeSabinoTMRS) |
+| Juan Felipe Voltolini | [@juanvoltolini-rm562890](https://github.com/juanvoltolini-rm562890) |
+| Luiz Henrique Ribeiro de Oliveira | [@Luiz-FIAP](https://github.com/Luiz-FIAP) |
+| Marco Aurélio Eberhardt Assimpção | [@marcofiap](https://github.com/marcofiap) |
+| Paulo Henrique Senise | [@PauloSenise](https://github.com/PauloSenise) |
+
+### **Professores**
+
+- **Tutor:**   
+- **Coordenador:** [André Godoi](https://github.com/agodoi)
+
+---
