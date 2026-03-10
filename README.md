@@ -39,9 +39,9 @@ Este repositório contém a base de dados inicial necessária para as futuras fa
 
 ### Estrutura do Repositório
 
-- **/docs: Contém os arquivos de texto (.txt) utilizados para as análises de NLP.**
+- **/docs:** Contém os arquivos de texto (.txt) utilizados para as análises de NLP.**
 
-- **README.md: Documentação e justificativas técnicas do projeto.**
+- **README.md:** Documentação e justificativas técnicas do projeto.**
 
 ---
 
@@ -60,4 +60,7 @@ Análise de Sentimento e Gravidade: Interpretação da descrição subjetiva da 
 A análise de textos é vital para o CardioIA pois permite que a plataforma interprete dados não estruturados (como anotações médicas e artigos científicos), garantindo que o sistema de IA esteja sempre alinhado com as diretrizes da Sociedade Brasileira de Cardiologia e com as evidências de sobrevida pós-infarto.
 
 ---
+
+### Governança de Dados e Viés
+O projeto considera os conceitos de Governança de IA, garantindo que as fontes de dados (como os artigos do SUS e SciELO utilizados) sejam confiáveis e que a base de dados seja diversa para evitar preconceitos algoritmos (vieses) em relação a idade ou gênero dos pacientes.
 
