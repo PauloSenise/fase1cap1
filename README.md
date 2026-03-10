@@ -39,9 +39,9 @@ Este repositório contém a base de dados inicial necessária para as futuras fa
 
 ### Estrutura do Repositório
 
-- **/docs:** Contém os arquivos de texto (.txt) utilizados para as análises de NLP.**
+- **/docs:** Contém os arquivos de texto (.txt) utilizados para as análises de NLP.
 
-- **README.md:** Documentação e justificativas técnicas do projeto.**
+- **README.md:** Documentação e justificativas técnicas do projeto.
 
 ---
 
